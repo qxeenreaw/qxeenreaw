@@ -6,13 +6,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=junior-dior&label=Profile+views&color=00b4d8&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/junior-dior?style=for-the-badge&logo=github&color=24292e" alt="followers" />
-<img src="https://img.shields.io/github/stars/junior-dior?style=for-the-badge&logo=github&color=ffc729" alt="stars" />
-<img src="https://img.shields.io/github/commit-activity/y/junior-dior?style=for-the-badge&logo=git&color=e22f1e&label=commits" alt="commits" />
-
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/open.mp-Developer-1F8ACB?style=for-the-badge&logo=gamejolt&logoColor=white" alt="open.mp" />
   <img src="https://img.shields.io/badge/FiveM-Developer-F40552?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
