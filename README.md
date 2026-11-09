@@ -42,20 +42,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/junior-dior?style=for-the-badge&logo=github&color=24292e" alt="followers" />
-  <img src="https://img.shields.io/github/stars/junior-dior?style=for-the-badge&logo=github&color=ffc729" alt="stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/junior-dior/junior-dior?style=for-the-badge&logo=git&color=e22f1e&label=commits" alt="commits" />
-  <img src="https://img.shields.io/github/last-commit/junior-dior/junior-dior?style=for-the-badge&logo=github&color=8957e5" alt="last commit" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00b4d8/junior-dior" alt="Contribution chart" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=junior-dior&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=junior-dior&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</p>
-
 </div>
